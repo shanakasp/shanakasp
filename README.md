@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Undergraduate IT student from the University of Moratuwa.<br>👯 I’m looking for opportunities to learn and gather experience.<br>🤝 Teamwork.<br>🌱 I’m currently learning Docker, AWS<br>💬 shanakaprince@gmail.com.<br>⚡ Quick learner.
+🔭 Undergraduate IT student from the University of Moratuwa.<br>👯 I’m looking for opportunities to learn and gather experience.<br>🤝 Teamwork.<br>🌱 I’m currently learning Docker, AWS and Unity<br>💬 shanakaprince@gmail.com.<br>⚡ Quick learner.
 
 
 ## 🌐 Socials:
