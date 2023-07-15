@@ -37,8 +37,6 @@ Design; <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shanakasp&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanakasp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=shanakasp&icon=7&color=5)](https://visitcount.itsvg.in)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shanakasp&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
@@ -51,7 +49,10 @@ Design; <br>
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
+[![](https://visitcount.itsvg.in/api?id=shanakasp&icon=7&color=5)](https://visitcount.itsvg.in)
+
 [![An image of @shanakasp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shanakasp)](https://holopin.io/@shanakasp)
+
 
 ---
 
