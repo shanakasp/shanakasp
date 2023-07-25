@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Undergraduate IT student from the University of Moratuwa.<br>👯 I’m looking for opportunities to learn and gather experience.<br>🤝 Teamwork.<br>🌱 I’m currently learning Docker, AWS and Unity<br>💬 shanakaprince@gmail.com.<br>⚡ Quick learner.
+🔭 Undergraduate IT student from the University of Moratuwa. 👨🏻‍🎓<br>👯 I’m looking for opportunities to learn and gather experience. 💪<br>🤝 Teamwork. 👋<br>🌱 I’m currently learning Docker, AWS and Unity. 👨‍🏫<br>💬 shanakaprince@gmail.com. ✍🏻<br>⚡ Quick learner. <br>🌍 My website - shanakaprince.netlify.app 😎
 
 [![](https://visitcount.itsvg.in/api?id=shanakasp&icon=7&color=5)](https://visitcount.itsvg.in)
 
