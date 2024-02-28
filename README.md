@@ -1,7 +1,9 @@
 # 💫 About Me:
 🔭 Undergraduate IT student from the University of Moratuwa. 👨🏻‍🎓<br>👯 I’m looking for opportunities to learn and gather experience. 💪<br>🤝 Teamwork. 👋<br>🌱 I’m currently learning Docker, AWS and Unity. 👨‍🏫<br>💬 shanakaprince@gmail.com. ✍🏻<br>⚡ Quick learner.
 
-[![](https://visitcount.itsvg.in/api?id=shanakasp&icon=7&color=5)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=shanakasp&label=Profile%20Views&pretty=false" />
+</a>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shanaka ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shanaka.prince) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanaka-prince-810400226) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shanakaprince) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17394517) 
