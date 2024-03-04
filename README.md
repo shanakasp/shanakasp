@@ -6,7 +6,12 @@
 </a>
 
 ## 🌐 Socials:
-(https://dribbble.com/PRINCEJBTS)
+(https://dribbble.com/PRINCEJBTS) <br>
+(https://behance.net/shanaka ) <br>
+(https://facebook.com/shanaka.prince)  <br>
+(https://linkedin.com/in/shanaka-prince-810400226)  <br>
+(https://medium.com/@shanakaprince) <br>
+(https://stackoverflow.com/users/17394517)  <br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shanaka ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shanaka.prince) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanaka-prince-810400226) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shanakaprince) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17394517) 
 
 # 💻 Tech Stack:
