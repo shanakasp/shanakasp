@@ -5,6 +5,9 @@
   <img src="https://visitcount.itsvg.in/api?id=shanakasp&label=Profile%20Views&pretty=false" />
 </a>
 
+## 🎥 Recommended Video:
+[![Recommended Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 ## 🌐 Socials:
 (https://dribbble.com/PRINCEJBTS) <br>
 (https://behance.net/shanaka ) <br>
