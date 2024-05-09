@@ -1,4 +1,4 @@
-# 💫 About Me:
+### 💫 About Me:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 🔭 Undergraduate IT student from the University of Moratuwa. 👨🏻‍🎓<br>👯 I’m looking for opportunities to learn and gather experience. 💪<br>🤝 Teamwork. 👋<br>🌱 I’m currently learning Docker, AWS and Unity. 👨‍🏫<br>💬 shanakaprince@gmail.com. ✍🏻<br>⚡ Quick learner.
 
@@ -6,7 +6,8 @@
   <img src="https://visitcount.itsvg.in/api?id=shanakasp&label=Profile%20Views&pretty=false" />
 </a>
 
-## 🌐 Socials:
+### 🌐 Socials:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 (https://dribbble.com/PRINCEJBTS) <br>
 (https://behance.net/shanaka ) <br>
 (https://facebook.com/shanaka.prince)  <br>
@@ -15,7 +16,8 @@
 (https://stackoverflow.com/users/17394517)  <br>   <br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shanaka ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shanaka.prince) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanaka-prince-810400226) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shanakaprince) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17394517) 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 Programming Languages; <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)<br>
 
