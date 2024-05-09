@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
 
 # 💫 About Me:
 
