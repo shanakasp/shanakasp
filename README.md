@@ -63,6 +63,8 @@ Design; <br>
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+
 [![An image of @shanakasp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shanakasp)](https://holopin.io/@shanakasp)
 
 ---
