@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20%" width="100%">
+
 # 💫 About Me:
 
 🔭 Undergraduate IT student from the University of Moratuwa. 👨🏻‍🎓<br>👯 I’m looking for opportunities to learn and gather experience. 💪<br>🤝 Teamwork. 👋<br>🌱 I’m currently learning Docker, AWS and Unity. 👨‍🏫<br>💬 shanakaprince@gmail.com. ✍🏻<br>⚡ Quick learner.
